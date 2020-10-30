@@ -39,6 +39,7 @@ Takenlijst:
 4. Voeg JUnit 5 aan je pom.xml toe.
 5. Run `mvn clean test` om te kijken of alles werkt.
 6. Maak voor elke methode in Account.java een Test in AccountTest.java.
+7. Je zult bugs tegenkomen in de code door het schrijven van Unit-testen. Deze bugs mag je fixen!
 
 Extra opgave (floats)
 1. Bekijk de code in BadMoney.java
