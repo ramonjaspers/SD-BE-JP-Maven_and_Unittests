@@ -46,7 +46,3 @@ Extra opgave (floats)
 2. Run BadMoney.java
 3. Zie je hier wat er fout gaat?
 4. Controleer Account.java. Heeft Account.java ook dit probleem? Schrijf een test om dit testen.
-
-## Oplossingen:
-De oplossingen staan in de branch antwoord en bonusVraag. In antwoord heb ik verschillende commits gedaan, zodat je
-stap voor stap kunt zien hoe ik gewerkt heb.
